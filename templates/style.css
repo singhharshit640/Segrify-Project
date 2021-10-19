@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  /* width: 400px;
+  margin: auto; */
+}
+.container {
+  height: 550px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+}
+.items {
+  position: relative;
+  margin: 1rem 0;
+}
+.container input[type="text"] {
+  width: 400px;
+  height: 40px;
+  font-family: "Poppins", sans-serif;
+}
+/* .container #folder {
+  border: none;
+  width: 140px;
+  padding: 10px;
+  color: white;
+  font-size: 1.3rem;
+  background: linear-gradient(
+    105.29deg,
+    #8bd5ff 0%,
+    #5a88ff 35.29%,
+    #6c00f7 100.97%
+  );
+} */
+.container button{
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+  width: 140px;
+  font-size: 1.3rem;
+  border: none;
+  background: linear-gradient(
+    105.29deg,
+    #8bd5ff 0%,
+    #5a88ff 35.29%,
+    #6c00f7 100.97%
+  );
+  color: white;
+  cursor: pointer;
+}
+.container #folder {
+  padding: 10px;
+  font-size: 1rem;
+  margin-top: 0;
+}
+.container button:hover {
+  opacity: 0.7;
+}
+.container #result{
+  margin-top: 30px;
+}
+footer {
+  margin-bottom: 10px;
+  text-align: center;
+}

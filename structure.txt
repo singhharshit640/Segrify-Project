@@ -1,0 +1,27 @@
+Below is the Structure of how the files have been organised by Segrify.
+
+
+Compressed
+	 ['zip', 'rar', 'bz2', '7z', 'arj', 'gz', 'z', 'tar']
+Data and DataBase Files
+	 ['csv', 'dat', 'db', 'dbf', 'log', 'mdb', 'sql', 'xml']
+Documents
+	 ['pdf', 'doc', 'docx', 'txt', 'tex', 'wpd', 'pptx', 'odt', 'odp', 'ppt', 'rtf', 'ods', 'xls', 'xlsm', 'xlsx', 'pps']
+Fonts
+	 ['fnt', 'fon', 'otf', 'ttf']
+Images
+	 ['jpg', 'jpeg', 'png', 'ico', 'ai', 'bmp', 'gif', 'ps', 'psd', 'svg', 'tif', 'tiff']
+Iso's (Disc/Media Files)
+	 ['iso', 'dmg', 'toast', 'vcd']
+Music
+	 ['mp3', 'm3u8', 'aif', 'cda', 'mid', 'midi', 'mp3', 'mpa', 'ogg', 'wav', 'wma', 'wpl']
+Programming
+	 ['c', 'cpp', 'class', 'cs', 'h', 'java', 'pl', 'sh', 'swift', 'vb']
+Setups (Installers)
+	 ['exe', 'msi', 'bat', 'bin', 'deb', 'pkg', 'rpm', 'wsf']
+Shortcuts
+	 ['lnk']
+Torrents
+	 ['.torrent']
+Videos
+	 ['mp4', 'mkv', '3g2', '3gp', 'flv', 'h264', 'm4v', 'mov', 'mpg', 'mpeg', 'rm', 'swf', 'vob', 'wmv']
